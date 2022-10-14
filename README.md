@@ -1,5 +1,5 @@
 # DADS5001_MiniProject_6420422011
-ภาพรวมการให้บริการที่จอดรถของหน่วยงาน Singapore House Development Board 
+ภาพรวมการให้บริการที่จอดรถของหน่วยงาน Singapore Housing & Development Board 
 # Dataset
 1. Dataset ข้อมูลรายละเอียดจุดบริการที่จอดรถทั้งหมด (2182 rows / 12 columns)
 
