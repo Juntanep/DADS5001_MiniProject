@@ -41,7 +41,7 @@ Name (English) , Malay, Chinese, Pinyin, Tamil, Region, Area (km²), Population[
 
 ![image](https://github.com/Juntanep/DADS5001_MiniProject/blob/main/merging%20dataset.JPG)
 
-3. Pvot & Visualization : นำข้อมูลจากข้อ 2 มา Pivot ในแง่มุมต่างๆ ตามตัวอย่างด้านล่าง และ ในหัวข้อถัดไปค่ะ
+3. Pvot & Visualization : นำข้อมูลจากข้อ 2 มา Pivot ในแง่มุมต่างๆ & Visualize ตามตัวอย่างด้านล่าง และ ในหัวข้อถัดไปค่ะ
 
 ![image](https://github.com/Juntanep/DADS5001_MiniProject/blob/main/Pivot.JPG)
 
