@@ -3,6 +3,7 @@
 # Dataset
 1. Dataset ข้อมูลรายละเอียดจุดบริการที่จอดรถทั้งหมด (2182 rows / 12 columns)
 
+![image](https://github.com/Juntanep/DADS5001_MiniProject/blob/main/source%20table3.JPG)
 ![image](https://github.com/Juntanep/DADS5001_MiniProject/blob/main/source%20table1.JPG)
 
 Source : https://data.gov.sg/dataset/hdb-carpark-information?view_id=398e65ae-e2cb-4312-8651-6e65d6f19ed1&resource_id=139a3035-e624-4f56-b63f-89ae28d4ae4c
@@ -12,7 +13,8 @@ car_park_no, address, x_coord, y_coord, car_park_type, type_of_parking_system, s
 
 2. Dataset Planning Areas of Singapore
 
-![image](https://github.com/Juntanep/DADS5001_MiniProject/blob/main/source%20table2.JPG)
+![image](https://github.com/Juntanep/DADS5001_MiniProject/blob/main/source%20table4.JPG)
+
 
 Source : https://en.wikipedia.org/wiki/Planning_Areas_of_Singapore
 - 55 rows 
