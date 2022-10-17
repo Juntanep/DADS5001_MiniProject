@@ -47,7 +47,7 @@ Name (English) , Malay, Chinese, Pinyin, Tamil, Region, Area (km²), Population[
 
 ![image](https://user-images.githubusercontent.com/115800837/196230255-b52f6e00-7a29-408d-a84d-da2dc3dcb904.png)
 
-Source : https://github.com/Juntanep/DADS5001_MiniProject/blob/main/Mini%20project_HBD%20Carparking%20SG%20(Final).ipynb
+รายละเอียด code ทั้งหมด : https://github.com/Juntanep/DADS5001_MiniProject/blob/main/Mini%20project_HBD%20Carparking%20SG%20(Final).ipynb
 # Question & Answer
 
 จากจำนวนที่จอดรถทั้งหมด 2,182 แห่ง สามารถสรุปข้อมูลได้ ดังนี้
@@ -86,7 +86,7 @@ A: จากกราฟข้อมูล Number of Car Park by Region and Paym
 
 ข้อมูลแสดงสัดส่วนจำนวนที่จอดรถฟรีแยกตามภูมิภาค
 
-![image](https://github.com/Juntanep/DADS5001_MiniProject/blob/main/graph3.JPG)
+![image](https://user-images.githubusercontent.com/115800837/196241814-6ff31d0a-bbe4-4cc3-beda-7fb4e24e452a.png)
 
 ข้อมูลแสดงสัดส่วนจำนวนที่จอดรถที่สามารถฟรีและจอดรถตอนกลางคืน
 
@@ -97,7 +97,7 @@ A: จากข้อมูลสรุปได้ว่ามีแนวโ�
 
 #### 3. Q: หากต้องมีการพัฒนาเพิ่มเติมควรพัฒนาอะไรเพิ่มเติม?
 
-![image](https://user-images.githubusercontent.com/115800837/196231406-1660318e-e94a-4e75-a350-cfbfdd057efd.png)
+![image](https://user-images.githubusercontent.com/115800837/196241678-07e7a172-0cfb-4d4d-8c99-c25d2870bc0d.png)
 ![image](https://user-images.githubusercontent.com/115800837/196240367-62373274-041b-433f-b762-50b49dea504c.png)
 
 
